@@ -11,3 +11,5 @@ GIT:
 5)git add -A
 6)git commit -m "This file is first vesrion"
 7)git push origin master
+8)git log
+9)git revert
